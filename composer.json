@@ -1,6 +1,15 @@
 {
-    "name":"yan7011/test",
-    "require": {
-        "yan7011/test": "dev-master"
+  "name": "yan7011/test",
+  "description": "Elind Printer SDK",
+  "type": "sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "yan7011",
+      "email": "13570361631@163.com"
     }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {}
 }
