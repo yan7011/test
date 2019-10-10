@@ -1,3 +1,6 @@
 {
-  "name":"yan7011/test"
+    "name":"yan7011/test",
+    "require": {
+        "yan7011/test": "dev-master"
+    }
 }
